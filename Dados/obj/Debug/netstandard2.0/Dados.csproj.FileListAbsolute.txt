@@ -1,0 +1,9 @@
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\bin\Debug\netstandard2.0\Dados.deps.json
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\obj\Debug\netstandard2.0\Dados.csprojAssemblyReference.cache
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\obj\Debug\netstandard2.0\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfoInputs.cache
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\obj\Debug\netstandard2.0\Dados.dll
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dados\obj\Debug\netstandard2.0\Dados.pdb
