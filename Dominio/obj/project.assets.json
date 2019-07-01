@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Agnaldo Filho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5,7 +5,7 @@
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/Microsoft.CSharp.dll": {}
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.CSharp.dll": {}
@@ -51,7 +51,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "2.2.4"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -785,6 +785,16 @@
         },
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
+        }
+      },
+      "Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
         }
       }
     }
@@ -3203,10 +3213,16 @@
         "system.threading.tasks.4.0.11.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 2.2.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.4",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.4",
@@ -3220,11 +3236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\Dados\\Dados.csproj",
+      "projectUniqueName": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dados\\Dados.csproj",
       "projectName": "Dados",
-      "projectPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\Dados\\Dados.csproj",
+      "projectPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dados\\Dados.csproj",
       "packagesPath": "C:\\Users\\Agnaldo Filho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\Dados\\obj\\",
+      "outputPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3242,7 +3258,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Agnaldo Filho\\Downloads\\Estudos\\CursoUdemyAspNetCore\\EFCore\\EFCoreUdemy\\Dominio\\Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -7,3 +7,12 @@ C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dominio\obj
 C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
 C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Agnaldo Filho\Downloads\Estudos\CursoUdemyAspNetCore\EFCore\EFCoreUdemy\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
